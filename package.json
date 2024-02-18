@@ -1,0 +1,30 @@
+{
+  "name": "json-to-ts-types",
+  "version": "1.0.6",
+  "description": "A utility for generating TypeScript type declarations from JSON data with customizable type names.",
+  "main": "index.js",
+  "bin": {
+    "jttt": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "JSON",
+    "TypeScript",
+    "type generator",
+    "type declaration",
+    "conversion",
+    "utility",
+    "tool",
+    "development",
+    "automation",
+    "customization",
+    "CLI",
+    "code generation"
+  ],
+  "author": "Kozlove1",
+
+  "license": "ISC"
+}
